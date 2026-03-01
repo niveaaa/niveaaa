@@ -1,5 +1,5 @@
 # About Me:
-i write code like it personally offended me<br><br>surviving on caffeine, bad commits, and “it worked yesterday”<br><br>currently building things that either:<br>- solve real problems<br>- break spectacularly<br><br>i speak fluent:<br>python • c++ • arduino • html/css/js • “why is this null”
+<br>surviving on caffeine, bad commits, and “it worked yesterday”<br><br>currently building things that either:<br>- solve real problems<br>- break spectacularly<br><br>i speak fluent:<br>python • c++ • arduino • html/css/js • “why is this null”
 
 
 ## Socials:
