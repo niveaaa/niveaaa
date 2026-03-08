@@ -1,5 +1,5 @@
 # helo ;p
-surviving on caffeine, bad commits, and “it worked yesterday”<br><br>currently building things that either:<br>- solve real problems<br>- break spectacularly<br><br>i speak fluent:<br>python • c++ • arduino • html/css/js • “why is this null”
+surviving on caffeine, bad commits, and “it worked yesterday”<br><br>currently building things that either:<br>- solve real problems<br>- break spectacularly<br><br>i speak fluent:<br>python • c++ • arduino • js • “why is this null”
 
 
 ## Socials:
